@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "python&#45;1",
+      "setup": "",
+      "run": "run test",
+      "input": "Shekhar",
+      "output": "\"Hello Shekhar\"",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
